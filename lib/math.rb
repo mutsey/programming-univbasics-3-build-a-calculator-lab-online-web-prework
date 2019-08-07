@@ -11,12 +11,15 @@ end
 a_method(1,2) #=> -1
 
 def division(num1, num2)
-(4/2)
+4/2
 end
+
+a_method(4,2) #=> 2 
 
 def multiplication(num1, num2)
-
+1*2 
 end
+a_method(1,2) #=> 2 
 
 def modulo(num1, num2)
 
