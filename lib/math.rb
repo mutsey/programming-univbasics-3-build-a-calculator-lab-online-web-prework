@@ -9,8 +9,9 @@ def subtraction(num1, num2)
 end
 
 a_method(1,2) #=> -1
-def division(num1, num2)
 
+def division(num1, num2)
+(4/2)
 end
 
 def multiplication(num1, num2)
